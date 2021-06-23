@@ -1,0 +1,51 @@
+/* html, body {
+    height: 100%;
+} */
+main{
+    height: calc(100vh - 12rem);
+}
+.main-form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    /* margin: 3rem; */
+}
+.main-form .login-form {
+    font-size: 150%;
+    margin: 0 auto;
+    width: max-content;
+    padding: 2rem;
+    color: #9c05af;
+    background-color: #9c05af;
+}
+.main-form .login-form input {
+    padding: 0.2rem;
+    margin: 0.2rem;
+}
+.main-form .login-form .div-submit{
+    display: flex;
+    justify-content: flex-end;
+}
+.main-form .login-form .div-submit input{
+    margin: 1rem 0 0 0;
+    padding: 0.5rem;
+    background-color: #9c05af;
+    color: var(--nav-color);
+    transition: background-color 0.5s,color 0.5s;
+}
+.main-form .login-form .div-submit input:hover{
+    background-color: #9c05af;
+    color: #9c05af;
+    cursor: pointer;
+}
+.main-form .div-sign p{
+    margin: 0.5rem auto;
+    width: fit-content;
+}
+.main-form .login-form .emailerror{
+    /* display: none; */
+    margin: 0.2rem 0 0 0;
+    padding: 0.1rem;
+    color: #9b0000;
+    font-size: 1rem;
+}

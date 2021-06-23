@@ -1,0 +1,43 @@
+.noneslides{
+    display: none;
+    width: 50%;
+}
+/* MAIN SECTION */
+main .slideshow{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    /* grid-column: 2; */
+    width: 100%;
+}
+main .slideshow .slidesin{
+    display: flex;
+    flex-direction: column;
+    animation: slidein 1s;
+}
+main .slideshow .slidesout{
+    display: flex;
+    flex-direction: column;
+    animation: slideout 1s;
+}
+/* ANIMATIONS */
+@keyframes slidein{
+    0% {
+        transform: translateX(50%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 100%;
+    }
+}
+@keyframes slideout{
+    0% {
+        transform: translateX(0);
+        opacity: 100%;
+    }
+    100% {
+        transform: translateX(-50%);
+        opacity: 0;
+    }
+}
