@@ -1,4 +1,5 @@
-# Producto integrador.                           Mi aplicación construida con lenguajes de programación Backend :computer:
+# Producto integrador.                           
+# Mi aplicación construida con lenguajes de programación Backend :computer:
 
 Es hora de llevar a cabo la integración de todo lo desarrollado durante el curso en lo que respecta al manejo del lenguaje de programación backend PHP. Para esto crearás un sistema que se asemeja más a lo que ves en la vida real: un administrador de imágenes, empleando para ello todas las herramientas trabajadas en las actividades anteriores.
 
@@ -12,7 +13,7 @@ Es hora de llevar a cabo la integración de todo lo desarrollado durante el curs
 Existirá otro tipo de usuario “administrador” quien podrá modificar o borrar los datos de cualquier usuario.
 
 # Portada
-![enter image description here](http://lh3.googleusercontent.com/z5J5FgzjpEF7Z2uvjLy_cOXwVSbMGE9AjEesfrQiOwC6gkB3mvsIBbwolmJnuG44mS4h8XG4lLkfo07NsSsoIoH7nIlf3HfxYZ52wI8p7c_4BhJvj81ezw-SXwOz3FgP9NAOPi8pZAkqZeqExM4bytqHivm-w_BoM7kBmCmIna53-2bNGL_KulwPWmz6YInhvsxCBqygeLfgX-a9AE8YgAlZhIDlcLFFnP257caSTmvuzGAEHCxmWBpwAPGEbx-ZQ_7pecs8k8NKRgc2RwrTa34ZjXF3hE6PTzziZ0RAjpfphwz2uR_ud7dJeMwUPME0uJYNOCq3ylmISemKY6K5pV4UVlD6QNTHjYA2HW_yjel9m5mb2a7M6aUjgpE5t4D05571YljcuU5_e6GwsHyd2N5KlfoxW0yKfUx30qIAGWNfXSV2DhYFfhPGq3GmJPdLYexddt_HNfpv5vyUk1FdFKyETmm2u_bO756b2ZYt2caZc7QfE5MVJnkPFvXtmt06wh8Sq0Gr4VQ7ixUxlky_-BwC08nKsD3fzbojM3H6PtCSiC_sW40vZppeElRIUM5MjwbdX56XctlgkxbWenIQQpw02uRjzLf2NqVHjb1LpLRuStIm7b1xcwROdbo1z1OdFNmV-apC12yOa7cXIUedwC2MHw6DES_hhVR6uRzMaB1Bv_X8I-Bqi4NE-4JQYi1vKSlTaNhJfxc-F7LicvQJPpI=w1362-h625-no?authuser=0)
+![enter image description here](https://lh3.googleusercontent.com/z5J5FgzjpEF7Z2uvjLy_cOXwVSbMGE9AjEesfrQiOwC6gkB3mvsIBbwolmJnuG44mS4h8XG4lLkfo07NsSsoIoH7nIlf3HfxYZ52wI8p7c_4BhJvj81ezw-SXwOz3FgP9NAOPi8pZAkqZeqExM4bytqHivm-w_BoM7kBmCmIna53-2bNGL_KulwPWmz6YInhvsxCBqygeLfgX-a9AE8YgAlZhIDlcLFFnP257caSTmvuzGAEHCxmWBpwAPGEbx-ZQ_7pecs8k8NKRgc2RwrTa34ZjXF3hE6PTzziZ0RAjpfphwz2uR_ud7dJeMwUPME0uJYNOCq3ylmISemKY6K5pV4UVlD6QNTHjYA2HW_yjel9m5mb2a7M6aUjgpE5t4D05571YljcuU5_e6GwsHyd2N5KlfoxW0yKfUx30qIAGWNfXSV2DhYFfhPGq3GmJPdLYexddt_HNfpv5vyUk1FdFKyETmm2u_bO756b2ZYt2caZc7QfE5MVJnkPFvXtmt06wh8Sq0Gr4VQ7ixUxlky_-BwC08nKsD3fzbojM3H6PtCSiC_sW40vZppeElRIUM5MjwbdX56XctlgkxbWenIQQpw02uRjzLf2NqVHjb1LpLRuStIm7b1xcwROdbo1z1OdFNmV-apC12yOa7cXIUedwC2MHw6DES_hhVR6uRzMaB1Bv_X8I-Bqi4NE-4JQYi1vKSlTaNhJfxc-F7LicvQJPpI=w1362-h625-no?authuser=0)
 
 
 
@@ -43,5 +44,3 @@ El administrador dará click en galería y le aparecerá la opción para elimina
 #### JAVASCRIPT :sunny: :sunny: :sunny:
 #### CSS :milky_way: :milky_way: :milky_way:
 #### JASON (Como base de datos) :computer:
-
-
